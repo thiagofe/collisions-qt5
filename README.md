@@ -1,1 +1,4 @@
-# collisions-qt5
+## collisions-qt5
+
+Collisions calculates propagation of one-dimensional collision uncertainties.
+
